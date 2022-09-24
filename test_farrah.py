@@ -1,1 +1,2 @@
-Print("hello")
+
+Print("hello") Print("Perubahan 1")
